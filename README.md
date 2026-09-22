@@ -4,6 +4,9 @@ Projet d'ingénierie des données de bout en bout : d'une base transactionnelle 
 
 > 📄 **Rapport complet** : le document [`docs/Rapport_Projet_Supply_Chain_Data_Engineering.pdf`](docs/Rapport_Projet_Supply_Chain_Data_Engineering.pdf) détaille chaque phase, chaque difficulté rencontrée et sa solution, le code complet et l'analyse des résultats. Ce README en est le résumé.
 
+<img width="1920" height="1155" alt="image" src="https://github.com/user-attachments/assets/110788c4-86ca-4299-a8c2-cb4729802aff" />
+
+
 ---
 
 ## 🔎 Aperçu du projet
